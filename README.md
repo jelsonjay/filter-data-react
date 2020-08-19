@@ -1,4 +1,6 @@
+# Filter-react
 
+simple micro-component which filter data with reactjs
 
 [Access My Project](https://filter-data.netlify.app/).
 
